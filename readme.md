@@ -86,7 +86,7 @@ Some other helpful references for understanding what's going on:
 #### Other devices
 - http://en.wikibooks.org/wiki/Serial_Programming/8250_UART_Programming
 
-[1]: http://bellard.org/jslinux/tech.html
+[1]: https://vfsync.org/x86emu-tech.html
 [2]: http://jsshaper.org
 [3]: https://github.com/ubercomp/jslm32
 [4]: https://bugs.webkit.org/show_bug.cgi?id=72154
